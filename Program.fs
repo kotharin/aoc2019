@@ -5,5 +5,5 @@ open Day3
 [<EntryPoint>]
 let main argv =
     
-    printfn "%A" Part1.solution
+    printfn "%A" Part2.solution
     0 // return an integer exit code
